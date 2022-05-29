@@ -20,3 +20,5 @@ THEN I am able to successfully create, update, and delete data in my database
 
 # Challenge
 * I was tasked with creating a functional backend for an ecommerce website. I will be using the given Express.js API and will be coding it have sequelize interact with a MYSQL database.
+
+https://drive.google.com/file/d/1076j5jlJhC1-Cdw2vtxAHNjmV0YPIR3e/view
